@@ -1,4 +1,4 @@
-# Heuristic solver for the Collaborative Freighter Delivery Problem 
+# Heuristic solver for the Collaborative Freighter Delivery Problem
 
 
 ## Installing the library
@@ -19,6 +19,6 @@ There is a config folder with the default problem parameters.
 
 ## Credits
 
-This project was partially funded by the Austrian Research Promotiion Agency (FFG) with the "Digitale Technolgien" funding frame under grant agreement no. 902669 (MUPOL).
+This project was partially funded by the Austrian Research Promotiion Agency (FFG) with the "Digitale Technologien" funding frame under grant agreement no. 902669 (MUPOL).
 
-Authors: Elena Wiegelmann, Erich Teppan, Christina Petschnigg, Fraunhofer Austria.
+Authors: Elena Wiegelmann, Erich Teppan, Christina Petschnigg - Fraunhofer Austria.
