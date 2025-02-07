@@ -2,7 +2,7 @@
 name = "mupol-plaintext"
 version = "0.3.3"
 description = "Plaintext version of the MUPOL demonstrator, written in Python"
-authors = ["Your Name <you@example.com>"]
+authors = ["Erich Teppan <erich.teppan@fraunhofer.at>"]
 readme = "README.md"
 packages = [{include = "mupol"}]
 
